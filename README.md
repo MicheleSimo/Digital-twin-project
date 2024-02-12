@@ -2,3 +2,5 @@
 This is my project for the master in Computer engineering.
 The concept is the couple Digital_Twin-Machine learning.
 In this folder there are 2 files, the first is the model of digital twin realized in simulink, the second file instead is a script on model in machine learning.
+The model in simulink produces several files that contain information about atmospheric condition.These files are training dataframe, they are reshaped and used as input dataframe
+for the models written in python.
